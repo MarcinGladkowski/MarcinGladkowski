@@ -7,9 +7,9 @@ Softwate developer really insterested into programming! I really like learn new 
 ### Technology stack
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/php/php-plain.svg">
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-<img width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/javascript/javascript-plain.svg">
-<img width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
-<img width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/javascript/javascript-plain.svg">
+<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
 
 
 ---
