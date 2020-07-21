@@ -10,9 +10,8 @@ Softwate developer really insterested into programming! I really like learn new 
 <img width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/javascript/javascript-plain.svg">
 <img width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
 <img width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-![alt text]([Isolated.png](https://github.com/konpa/devicon/blob/master/icons/php/php-plain.svg) "Title")
 
-
+![bootstrap](https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg)
 
 
 ---
