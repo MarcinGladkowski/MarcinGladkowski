@@ -11,8 +11,6 @@ Softwate developer really insterested into programming! I really like learn new 
 <img width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
 <img width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
 
-![bootstrap](https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg)
-
 
 ---
 ### Other activities
