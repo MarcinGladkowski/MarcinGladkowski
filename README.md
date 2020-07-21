@@ -5,6 +5,7 @@ Softwate developer really insterested into programming! I really like learn new 
 
 ---
 ### Technology stack
+<img src="https://github.com/konpa/devicon/blob/master/icons/php/php-plain.svg">
 
 ---
 ### Other activities
