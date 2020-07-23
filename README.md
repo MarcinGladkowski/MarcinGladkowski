@@ -1,7 +1,9 @@
 # <center>Welcome on my Github profile! 👋</center>
 
 ### About me
-Softwate developer really insterested into programming! I really like learn new things like programming languages and tools. I have many ideas! 
+Softwate developer really insterested into programming! I really like learn new things like programming languages and tools. I have many ideas!
+I learning a lot new technologies, tools, programming languages, best practices of coding. I traveling for a meetings, conferences. 
+
 
 ---
 ### Technology stack
@@ -17,6 +19,9 @@ Softwate developer really insterested into programming! I really like learn new 
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-plain.svg">  
 
 
+
+---
+### Goals for 2020
 ---
 ### Other activities
 * Amateur thriatlonist
