@@ -29,7 +29,7 @@ I learning a lot new technologies, tools, programming languages, best practices 
 <img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"> 
 <img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg"> 
 <img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"> 
-<img align="center" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-plain.svg">  
+<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-plain.svg">  
 </p>
 
 
