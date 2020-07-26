@@ -7,6 +7,7 @@ I learning a lot new technologies, tools, programming languages, best practices 
 
 ---
 ### Technology stack
+<p>
 <img align="left" width="50" height="50"  src="https://github.com/konpa/devicon/blob/master/icons/php/php-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/doctrine/doctrine-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/nodejs/nodejs-plain.svg">  
@@ -17,11 +18,19 @@ I learning a lot new technologies, tools, programming languages, best practices 
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/html5/html5-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-plain.svg">  
-
+</p>
 
 
 ---
 ### Goals for 2020
+* Resolving more coding Kata
+* Training Serverless
+* Learn about software architecture
+* Learn new programming language - Python
+* Do something for community - open software
+* Regularly writing blog posts  
+
+
 ---
 ### Other activities
 * Amateur thriatlonist
