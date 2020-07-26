@@ -17,7 +17,7 @@ I learning a lot new technologies, tools, programming languages, best practices 
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/css3/css3-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/html5/html5-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-plain.svg">  
+<img align="center" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-plain.svg">  
 </p>
 
 
