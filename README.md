@@ -32,6 +32,9 @@ I learning a lot new technologies, tools, programming languages, best practices 
 
 <br>
 <br>
+<br>
+
+
 ---
 ### Goals for 2020
 * Resolving more coding Kata
