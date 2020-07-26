@@ -11,6 +11,9 @@ I learning a lot new technologies, tools, programming languages, best practices 
 
 <img align="left" width="50" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">  
 <img align="left" width="50" height="50"  src="https://github.com/konpa/devicon/blob/master/icons/php/php-plain.svg">  
+<img align="left" width="50" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-plain.svg"> 
+<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg">  
+<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/zend/zend-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/doctrine/doctrine-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/nodejs/nodejs-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/javascript/javascript-plain.svg">  
@@ -22,7 +25,10 @@ I learning a lot new technologies, tools, programming languages, best practices 
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/tree/master/icons/mongodb">  
 <img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/tree/master/icons/mysql">  
-<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/tree/master/icons/nginx"> 
+<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">  
+<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"> 
+<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg"> 
+<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"> 
 <img align="center" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-plain.svg">  
 </p>
 
