@@ -8,15 +8,21 @@ I learning a lot new technologies, tools, programming languages, best practices 
 ---
 ### Technology stack
 <p>
+
+<img align="left" width="50" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">  
 <img align="left" width="50" height="50"  src="https://github.com/konpa/devicon/blob/master/icons/php/php-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/doctrine/doctrine-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/nodejs/nodejs-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/javascript/javascript-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/angularjs/angularjs-plain.svg">  
+<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/angularjs/angularjs-plain.svg"> 
+<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/tree/master/icons/jquery ">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/css3/css3-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/html5/html5-plain.svg">  
 <img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-plain.svg">  
+<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/tree/master/icons/mongodb">  
+<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/tree/master/icons/mysql">  
+<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/tree/master/icons/nginx"> 
 <img align="center" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-plain.svg">  
 </p>
 
