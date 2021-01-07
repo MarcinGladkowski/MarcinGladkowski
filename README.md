@@ -34,13 +34,15 @@ I learning a lot new technologies, tools, programming languages, best practices 
 <br>
 <br>
 
+---
+### [Personal site](https://marcingladkowski.pl)
 
 ---
-### Goals for 2020
+### Goals for 2021
 * Resolving more coding Kata
 * Training Serverless
 * Learn about software architecture
-* Learn new programming language - Python
+* Continue learning - Python
 * Do something for community - open software
 * Regularly writing blog posts  
 
