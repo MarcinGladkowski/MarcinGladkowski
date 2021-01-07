@@ -35,7 +35,7 @@ I learning a lot new technologies, tools, programming languages, best practices 
 <br>
 
 ---
-### [Personal site](https://marcingladkowski.pl)
+### [https://marcingladkowski.pl](https://marcingladkowski.pl)
 
 ---
 ### Goals for 2021
