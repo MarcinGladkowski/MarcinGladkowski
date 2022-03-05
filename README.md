@@ -10,33 +10,6 @@ I learning a lot new technologies, tools, programming languages, best practices 
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
-<img align="left" width="50" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">  
-<img align="left" width="50" height="50"  src="https://github.com/konpa/devicon/blob/master/icons/php/php-plain.svg">  
-<img align="left" width="50" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-plain.svg"> 
-<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/zend/zend-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/doctrine/doctrine-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/nodejs/nodejs-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/javascript/javascript-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/angularjs/angularjs-plain.svg"> 
-<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/css3/css3-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/html5/html5-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">  
-<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"> 
-<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg"> 
-<img align="left" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"> 
-<img align="left" width="40" height="40"  src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-plain.svg">  
-
-<br>
-<br>
-<br>
-
 ---
 ### [https://marcingladkowski.pl](https://marcingladkowski.pl)
 
