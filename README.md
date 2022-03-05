@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Welcome+on+my+Github+profile!++%F0%9F%91%8B)](https://git.io/typing-svg)
 
-👨‍💻 ### About me
+### 👨‍💻 About me
 Softwate developer really insterested into programming! I really like learn new things like programming languages and tools. I have many ideas!
 I learning a lot new technologies, tools, programming languages, best practices of coding. I traveling for a meetings, conferences. 
 
