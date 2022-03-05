@@ -55,7 +55,7 @@ I learning a lot new technologies, tools, programming languages, best practices 
 
 
 ---
-### Other activities
+### 🏎️ Other activities
 * Amateur thriatlonist
 * GoKarts amateur driver
 * Formula 1 and WRC fan
