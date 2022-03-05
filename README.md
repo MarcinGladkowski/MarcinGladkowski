@@ -42,10 +42,10 @@ I learning a lot new technologies, tools, programming languages, best practices 
 
 
 ---
-### [https://marcingladkowski.pl](https://marcingladkowski.pl)
+###[https://marcingladkowski.pl](https://marcingladkowski.pl)
 
 ---
-### Goals for 2022
+### 🌱 Goals for 2022
 * Resolving more coding Kata
 * Training Serverless
 * Learn about software architecture
@@ -61,11 +61,13 @@ I learning a lot new technologies, tools, programming languages, best practices 
 * Formula 1 and WRC fan
 
 ---  
-### Contact with me!
-* :mailbox: marcingladkowski@gmail.com
+### :mailbox: Contact with me!
+*  marcingladkowski@gmail.com
 _Have got curious project/idea/problem. You can write to me!_
 
-![](https://komarev.com/ghpvc/?username=MarcinGladkowski)
+
 
 ---
 ![MarcinGladkowski github stats](https://github-readme-stats.vercel.app/api?username=MarcinGladkowski&show_icons=true&hide_border=true)
+
+![](https://komarev.com/ghpvc/?username=MarcinGladkowski)
