@@ -4,11 +4,11 @@
 Softwate developer really insterested into programming! I really like learn new things like programming languages and tools. I have many ideas!
 I learning a lot new technologies, tools, programming languages, best practices of coding. I traveling for a meetings, conferences. 
 
-Visit my website! 🔭 [https://marcingladkowski.pl](https://marcingladkowski.pl)
+Visit my website! 🔭 **[https://marcingladkowski.pl](https://marcingladkowski.pl)**
 
 
 ---
-### Technology stack
+### ⚡ Technology stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,7 +54,6 @@ Visit my website! 🔭 [https://marcingladkowski.pl](https://marcingladkowski.pl
 
 ---
 ### 🏎️ Other activities
-* Amateur thriatlonist
 * GoKarts amateur driver
 * Formula 1 and WRC fan
 
