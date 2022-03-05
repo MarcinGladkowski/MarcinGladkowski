@@ -57,5 +57,8 @@ I learning a lot new technologies, tools, programming languages, best practices 
 ### Contact with me!
 * :mailbox: marcingladkowski@gmail.com
 _Have got curious project/idea/problem. You can write to me!_
+
+![](https://komarev.com/ghpvc/?username=MarcinGladkowski)
+
 ---
 ![MarcinGladkowski github stats](https://github-readme-stats.vercel.app/api?username=MarcinGladkowski&show_icons=true&hide_border=true)
