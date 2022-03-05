@@ -8,6 +8,9 @@ I learning a lot new technologies, tools, programming languages, best practices 
 ---
 ### Technology stack
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
 <img align="left" width="50" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">  
 <img align="left" width="50" height="50"  src="https://github.com/konpa/devicon/blob/master/icons/php/php-plain.svg">  
 <img align="left" width="50" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-plain.svg"> 
