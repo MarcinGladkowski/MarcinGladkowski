@@ -43,7 +43,7 @@ Visit my website! 🔭 **[https://marcingladkowski.pl](https://marcingladkowski.
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 ---
-### 🌱 Goals for 2022
+### 🌱 Goals for 2023
 * Resolving more coding Kata
 * Training Serverless
 * Learn about software architecture
