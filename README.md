@@ -45,9 +45,11 @@ Visit my website! 🔭 **[https://marcingladkowski.pl](https://marcingladkowski.
 ---
 ### 🌱 Goals for 2023
 * Resolving more coding Kata
+* Learning ML/AI
 * Training Serverless
 * Learn about software architecture
 * Continue learning - Python
+* Start learning - Rust
 * Do something for community - open software
 * Regularly writing blog posts  
 
