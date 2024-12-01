@@ -43,7 +43,7 @@ Visit my website! 🔭 **[https://marcingladkowski.pl](https://marcingladkowski.
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 ---
-### 🌱 Goals for 2023
+### 🌱 Goals for 2025
 * Resolving more coding Kata
 * Learning ML/AI
 * Training Serverless
@@ -51,8 +51,8 @@ Visit my website! 🔭 **[https://marcingladkowski.pl](https://marcingladkowski.
 * Continue learning - Python
 * Start learning - Rust
 * Do something for community - open software
-* Regularly writing blog posts  
-
+* Regularly writing blog posts
+* Polishing PHP knowledge
 
 ---
 ### 🏎️ Other activities
@@ -63,8 +63,6 @@ Visit my website! 🔭 **[https://marcingladkowski.pl](https://marcingladkowski.
 ### :mailbox: Contact with me!
 *  marcingladkowski@gmail.com
 _Have got curious project/idea/problem. You can write to me!_
-
-
 
 ---
 ![MarcinGladkowski github stats](https://github-readme-stats.vercel.app/api?username=MarcinGladkowski&show_icons=true&hide_border=true)
